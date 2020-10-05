@@ -1,0 +1,9 @@
+name = Scratch
+description = Pingendo template from scratch
+core = 7.x
+
+stylesheets[all][] = style.css
+
+regions[user_menu] = User menu
+regions[main_menu] = Main menu
+regions[content] = Content
